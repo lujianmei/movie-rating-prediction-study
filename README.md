@@ -7,4 +7,4 @@ An analysis, feature extraction and modeling study for https://github.com/sundee
 - `03 - IMDB Movie Rating Prediction Evaluation.ipynb` is where the features that are developed in the previous file are used in training of some ML models. A custom pipeline is written.
 
 # Conclusion
-According to `mean square error` metric, in score prediction, an order of magnitude reduction is observed over the baseline error.
+In score prediction an order of magnitude reduction is observed over the baseline error according to `mean square error` metric.
